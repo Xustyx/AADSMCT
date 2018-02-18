@@ -96,10 +96,10 @@ A fast way to run this if you don't like read.
 #!/usr/bin/env bash
 
 # Clone the repository
-git clone ${this.repository.url}
+git clone https://github.com/Xustyx/AADSMCT.git
 
 # Move to inventory folder
-cd ./${this.project.dir}/inventory
+cd ./AADSMCT/inventory
 
 # Run setup script
 source setup.sh
