@@ -4,3 +4,6 @@
 *.backup
 test
 .terraform
+inventory/hosts
+inventory/sw-aws-key
+inventory/sw-aws-key.pub
